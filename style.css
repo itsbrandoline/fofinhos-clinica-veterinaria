@@ -320,7 +320,7 @@
     color: #eaf6fb;
     padding: 64px 28px 28px;
   }
-  .footer-info {
+  .footer-info, .footer-grid {
     padding-bottom: 40px;
     border-bottom: 1px solid rgba(255,255,255,0.15);
   }
